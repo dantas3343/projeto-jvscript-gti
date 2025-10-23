@@ -2,7 +2,7 @@
 
 Este é um pequeno projeto criado para a atividade da faculdade, com o objetivo de aprender a usar o **GitHub**.
 
-O código mostra uma mensagem simples na tela usando **HTML** e **JavaScript**.
+O código mostra uma mensagem simples na tela usando **HTML**, *CSS* e **JavaScript**.
 
 ## 🚀 Como executar
 
@@ -12,6 +12,7 @@ O código mostra uma mensagem simples na tela usando **HTML** e **JavaScript**.
 
 ## 🧠 Tecnologias usadas
 - HTML
+- CSS
 - JavaScript
 
 ## 👨‍💻 Autor
