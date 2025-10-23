@@ -8,7 +8,7 @@ O código mostra uma mensagem simples na tela usando **HTML** e **JavaScript**.
 
 1. Baixe o arquivo `index.html`.
 2. Abra o arquivo em qualquer navegador.
-3. Você verá a mensagem **"Bem-vindo ao meu primeiro projeto no GitHub!"** exibida na página.
+3. Você verá a mensagem **"Cuidado!"** exibida na página.
 
 ## 🧠 Tecnologias usadas
 - HTML
